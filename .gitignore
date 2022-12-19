@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /yolov7/yolov7.pt
 /yolov7/traced_model.pt
+/yolov7/runs/detect
