@@ -14,6 +14,10 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --e
 ```
 - Install Visual Studio Code
 
+- Download file pretrain
+```
+https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
+```
 ## Training:
 
 Training bằng file notebook yolov7_training.ipynb
