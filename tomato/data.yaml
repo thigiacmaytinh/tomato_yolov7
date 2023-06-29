@@ -1,0 +1,7 @@
+names:
+- OK
+- NG
+
+nc: 2
+train: tomato/train/images
+val: tomato/valid/images
